@@ -1,1 +1,6 @@
 tornado==6.4
+django>=4.0.0,<4.1.0
+djangorestframework
+pyyaml
+requests
+django-cors-headers
